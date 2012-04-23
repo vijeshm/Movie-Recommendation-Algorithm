@@ -1,0 +1,3 @@
+{"Name":"MovieName1","Director":["DirectorName1"],"Actor":["ActorName1","ActorName2"],"Producer":["ProducerName1"],"Genre":["g1","g2","g3"]}
+{"Name":"MovieName2","Director":["DirectorName2"],"Actor":["ActorName2"],"Producer":["ProducerName2"],"Genre":["g2","g3","g4"]}
+{"Name":"MovieName3","Director":["DirectorName3"],"Actor":["ActorName3","ActorName2"],"Producer":["ProducerName3"],"Genre":["g6","g4","g5"]}
